@@ -4,7 +4,7 @@
 
 ### Cadre du projet
  
-Ce projet s'incrit dans le cadre du cours de Files d'Attente de "Pascal Moyal" <pascal.moyal13@gmail.com>, au MPRO. Ce code rassemble le travail de Madeline Fleury, Eida Ouchtar, Cyrille Vessaire et Sébastien Deschamps.
+Ce projet s'incrit dans le cadre du cours de Files d'Attente de Pascal Moyal <pascal.moyal13@gmail.com>, au MPRO. Ce code rassemble le travail de Madeline Fleury, Eida Ouchtar, Cyrille Vessaire et Sébastien Deschamps.
 Il consiste à modéliser l'évolution d'un ensemble de stations Vélib de Rouen afin d'en déduire la proportion de blocages engendrés par des stations videsou pleines.
 Les détails du travail que nous avons fourni peuvent se trouver à l'adresse suivante: https://www.overleaf.com/13234763chkvxkymwwbc#/50949922/
 
